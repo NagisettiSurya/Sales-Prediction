@@ -30,23 +30,16 @@ Make sure you have Python and pip installed. It is recommended to use a virtual 
 
 You will need to install the required libraries:
 
-```bash
 pip install pandas scikit-learn matplotlib
 
 
-
 ## 📥 Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/yourusername/Sales-Prediction.git
 cd Sales-Prediction
 
-
 ## 🏃‍♂️ Run the Application
+
 Once the repository is cloned and dependencies are installed, run the script to see the sales prediction in action:
 
-bash
-Copy
-Edit
 python sales_prediction.py
