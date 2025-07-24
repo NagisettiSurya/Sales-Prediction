@@ -35,7 +35,7 @@ pip install pandas scikit-learn matplotlib
 
 ## 📥 Clone the Repository
 
-git clone https://github.com/yourusername/Sales-Prediction.git
+git clone https://github.com/NagisettiSurya/Sales-Prediction
 
 cd Sales-Prediction
 
