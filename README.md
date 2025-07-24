@@ -32,7 +32,10 @@ You will need to install the required libraries:
 
 ```bash
 pip install pandas scikit-learn matplotlib
-📥 Clone the Repository
+
+
+
+### 📥 Clone the Repository
 bash
 Copy
 Edit
@@ -40,7 +43,7 @@ git clone https://github.com/yourusername/Sales-Prediction.git
 cd Sales-Prediction
 
 
-🏃‍♂️ Run the Application
+### 🏃‍♂️ Run the Application
 Once the repository is cloned and dependencies are installed, run the script to see the sales prediction in action:
 
 bash
