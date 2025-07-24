@@ -14,7 +14,7 @@ In this example, the model predicts sales based on a dataset of TV advertising s
 
 ## 🧠 Technologies Used
 
-- **Python 3.x**
+- **Python 3.7**
 - **pandas** – for data manipulation and analysis
 - **scikit-learn** – for implementing Linear Regression model
 - **matplotlib** – for data visualization
@@ -36,6 +36,7 @@ pip install pandas scikit-learn matplotlib
 ## 📥 Clone the Repository
 
 git clone https://github.com/yourusername/Sales-Prediction.git
+
 cd Sales-Prediction
 
 ## 🏃‍♂️ Run the Application
